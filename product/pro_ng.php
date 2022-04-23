@@ -14,9 +14,17 @@ else
     print '<br />';
 }
  ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>pronami</title>
+</head>
 <body>
 
-スタッフが選択されていません。
-<a href="staff_list.php">戻る</a>
+ 商品が選択されていません。<br />
+ <a href="pro_list.php">戻る</ a>
 
 </body>
+</html>
